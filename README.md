@@ -1,4 +1,4 @@
-# Producer–Consumer Problem (POSIX Shared Memory and Semaphores)
+# Producer–Consumer Problem
 
 ## Overview
 This project implements the classic **Producer–Consumer problem** using **POSIX shared memory** and **semaphores** in C.  
