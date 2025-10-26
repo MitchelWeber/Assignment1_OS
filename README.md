@@ -130,6 +130,19 @@ $ ./cleanup
 
 ---
 
+## Example Results
+
+**Producer Output:**
+![Producer Output](results/producer_output.png)
+
+**Consumer Output:**
+![Consumer Output](results/consumer_output.png)
+
+**Cleanup Output:**
+![Cleanup Output](results/cleanup_output.png)
+
+---
+
 ## Author
 **Mitchel Weber**  
 CS 33211 — Operating Systems  
